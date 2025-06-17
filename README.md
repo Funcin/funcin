@@ -1,16 +1,13 @@
-## Hi there 👋
+## Funcin：
 
-<!--
-**Funcin/funcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+过去十年，一直在产品行业；
 
-Here are some ideas to get you started:
+现在的我，只想利用自己已有的经验和即将学习的东西，来做让自己满意的作品。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我希望将我开始探索的东西记录，分享。
+
+希望大家热爱生活，享受当下，欢迎交流。
+
+更多关于我：funcin.com
+
+
