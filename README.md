@@ -1,4 +1,4 @@
-## Funcin：
+## About Funcin
 
 过去十年，一直在产品行业；
 
